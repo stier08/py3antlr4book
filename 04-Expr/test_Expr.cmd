@@ -1,0 +1,1 @@
+python "%~dp0test_Expr.py" "%~dp0t.expr" 
